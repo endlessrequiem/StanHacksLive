@@ -1243,7 +1243,7 @@ header .social-links ul li a:focus {
  * ------------------------------------------------------------------- */
 #info {
 	background: rgb(0, 0, 0);
-	background-image: url(https://images.pexels.com/photos/218863/pexels-photo-218863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-image: url(https://rangerrick.org/wp-content/uploads/2018/04/RR-Red-Panda-Aug-2016.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -1261,7 +1261,7 @@ header .social-links ul li a:focus {
 	width: 100%;
 	height: 100%;
 	background-color: #FFFFFF;
-	opacity: .9;
+	opacity: .5;
 }
 
 /* tabs 
